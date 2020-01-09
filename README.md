@@ -1,0 +1,2 @@
+# Vowel_Consonant-index
+This project ask the user to input a sentence. Once the user enters a sentence the code breaks down the sentence and puts each word into a list. The code then loops through each word in the list, if the word begins with a vowel "aeiou", then "(v)" is added to the end of the word. If the word does not begin with a vowel, the first cluster of consonants are moved to the end of the word and "(c)" is added onto the very end of the word.
